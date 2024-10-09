@@ -42,11 +42,7 @@ const TempApp = () => {
                                 <h3 className="tempminmax">Min {city.temp_min}°C | Max {city.temp_max}°C</h3>
                             </div>
                     </div>
-                        )}
-
-
-
-                    
+                        )}      
                 </div>
             </div>
         </>
